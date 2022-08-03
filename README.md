@@ -4,3 +4,10 @@ For this application, React serves as the frontend, or client-side framework, ha
 
 ### Screenshots
 
+<p float="left">
+  <img src="Images/todo1.PNG" width="70%" height="80%"/>
+</p>
+
+<p float="left">
+  <img src="Images/todo2.PNG" width="70%" height="80%"/>
+</p>
